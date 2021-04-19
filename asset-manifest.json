@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Interfejsy_webowe/static/css/main.66f54e6a.chunk.css",
+    "main.js": "/Interfejsy_webowe/static/js/main.972903cd.chunk.js",
+    "main.js.map": "/Interfejsy_webowe/static/js/main.972903cd.chunk.js.map",
+    "runtime-main.js": "/Interfejsy_webowe/static/js/runtime-main.0aeeb2a6.js",
+    "runtime-main.js.map": "/Interfejsy_webowe/static/js/runtime-main.0aeeb2a6.js.map",
+    "static/js/2.829d8891.chunk.js": "/Interfejsy_webowe/static/js/2.829d8891.chunk.js",
+    "static/js/2.829d8891.chunk.js.map": "/Interfejsy_webowe/static/js/2.829d8891.chunk.js.map",
+    "static/js/3.7f0ae040.chunk.js": "/Interfejsy_webowe/static/js/3.7f0ae040.chunk.js",
+    "static/js/3.7f0ae040.chunk.js.map": "/Interfejsy_webowe/static/js/3.7f0ae040.chunk.js.map",
+    "index.html": "/Interfejsy_webowe/index.html",
+    "static/css/main.66f54e6a.chunk.css.map": "/Interfejsy_webowe/static/css/main.66f54e6a.chunk.css.map",
+    "static/js/2.829d8891.chunk.js.LICENSE.txt": "/Interfejsy_webowe/static/js/2.829d8891.chunk.js.LICENSE.txt",
+    "static/media/myLogoo.db42603d.png": "/Interfejsy_webowe/static/media/myLogoo.db42603d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aeeb2a6.js",
+    "static/js/2.829d8891.chunk.js",
+    "static/css/main.66f54e6a.chunk.css",
+    "static/js/main.972903cd.chunk.js"
+  ]
+}
